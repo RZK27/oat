@@ -8,7 +8,7 @@
         "pid": "0x0000",
         "device_version": "1.0.0"
     },
-    "processor": "atmega32u4",
+    "processor": "STM32F411CEU6",
     "bootloader": "caterina",
     "matrix_pins": {
         "direct": [
