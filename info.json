@@ -9,6 +9,7 @@
         "device_version": "1.0.0"
     },
     "processor": "STM32F411",
+    
     "matrix_pins": {
         "direct": [
             ["C13", "B12", "B5", "B4", "B3", "A0", "B0", "A8", "B10",
