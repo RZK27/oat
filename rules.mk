@@ -11,4 +11,7 @@ BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
 
+# Bootloader selection
+BOOTLOADER = stm32-dfu
+
 LTO_ENABLE = yes
