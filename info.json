@@ -1,0 +1,44 @@
+{
+    "keyboard_name": "lemonpad",
+    "manufacturer": "rzk27",
+    "url": "",
+    "maintainer": "rzk27",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "matrix_pins": {
+        "direct": [
+            ["C13", "B12", "B5", "B4", "B3", "A0", "B0", "A8", "B10",
+            "A13", "A14", "A2", "C15", "C14", "B1", "B15", "B14", "B13"]
+        ]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"x": 0, "y": 0, "matrix": [0, 0]},
+                {"x": 1, "y": 0, "matrix": [1, 0]},
+                {"x": 2, "y": 0, "matrix": [2, 0]},
+                {"x": 3, "y": 0, "matrix": [3, 0]},
+                {"x": 4, "y": 0, "matrix": [4, 0]},
+                {"x": 5, "y": 0, "matrix": [5, 0]},
+                {"x": 6, "y": 0, "matrix": [6, 0]},
+                {"x": 7, "y": 0, "matrix": [7, 0]},
+                {"x": 8, "y": 0, "matrix": [8, 0]},
+
+                {"x": 9, "y": 0, "matrix": [9, 0]},
+                {"x": 10, "y": 0, "matrix": [10, 0]},
+                {"x": 11, "y": 0, "matrix": [11, 0]},
+                {"x": 12, "y": 0, "matrix": [12, 0]},
+                {"x": 13, "y": 0, "matrix": [13, 0]},
+                {"x": 14, "y": 0, "matrix": [14, 0]},
+                {"x": 15, "y": 0, "matrix": [15, 0]},
+                {"x": 16, "y": 0, "matrix": [16, 0]},
+                {"x": 17, "y": 0, "matrix": [17, 0]}
+            ]
+        }
+    }
+}
