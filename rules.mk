@@ -10,6 +10,7 @@ NKRO_ENABLE = yes            # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no       # Enable keyboard backlight functionality
 RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 AUDIO_ENABLE = no           # Audio output
+TRI_LAYER_ENABLE = yes
 
 # Bootloader selection
 BOOTLOADER = stm32-dfu
